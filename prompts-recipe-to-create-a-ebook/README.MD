@@ -3,6 +3,8 @@
 ## Objetivo
 
 Projeto com a finalidade de gerar um e-book com leitura agradável e com foco em promover autoridade técnica como parte da formação Chat GPT for Devs da Digital Innovation One.
+Confira o o resultado em [A arte dos labels: Desvendando Segredos para Criar Formulários
+HTML Mais Acessíveis](https://github.com/gfsantos2/formacao-chat-gpt-for-devs/blob/master/prompts-recipe-to-create-a-ebook/e-book-a-arte-dos-labels.pdf).
 
 ## 💻 Tecnologias utilizadas no projeto
 
