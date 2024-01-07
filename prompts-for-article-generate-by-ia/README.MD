@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Projeto com a finalidade de gerar um artigo técnico com leitura agradável e com foco em promover autoridade técnica.
+Projeto com a finalidade de gerar um artigo técnico com leitura agradável e com foco em promover autoridade técnica como parte da formação Chat GPT for Devs da Digital Innovation One.
 
 Confira o resultado em [Aprenda a adicionar legendas em vídeos de forma nativa no HTML](https://web.dio.me/articles/aprenda-a-adicionar-legendas-em-videos-de-forma-nativa-no-html?back=%2Farticles&open-modal=true&page=1&order=oldest).
 
@@ -20,4 +20,5 @@ ChatGPT：
 | Criar um trecho de código ilustrativo | Mostre um exemplo que ilustre essas dicas.|
 
 ## Redes sociais
+
 Me siga no [Linkedin](https://linkedin.com/in/gfernandessantos).
