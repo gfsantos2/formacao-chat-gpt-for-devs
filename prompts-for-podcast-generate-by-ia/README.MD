@@ -3,7 +3,7 @@
 ## Objetivo
 
 Projeto com a finalidade de gerar um podcast com um conteúdo informativo e com foco em promover autoridade técnica como parte da formação Chat GPT for Devs da Digital Innovation One.
-Confira o o resultado em.
+Confira o o resultado em [Web sem barreiras - comunicação acessível](https://github.com/gfsantos2/formacao-chat-gpt-for-devs/blob/master/prompts-for-podcast-generate-by-ia/output/podcast-editado.mp3).
 
 ## 💻 Tecnologias utilizadas no projeto
 
