@@ -12,8 +12,8 @@ HTML Mais Acessíveis](https://github.com/gfsantos2/formacao-chat-gpt-for-devs/b
 
 ## 📄 Prompts e ferramentas
 
-ChatGPT：
-LibreOffice Writer
+- ChatGPT：
+- LibreOffice Writer
 
 | Ação | Prompt |
 | ----- | ----- |
